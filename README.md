@@ -8,13 +8,15 @@ Essa modificação apenas coloca a parte editavel do código via xml no local co
 
 #Versão
 - Essa modificação foi feita para Opencart 2.3x
+- Atualização para Opencart 3x.
 
 # Observações Gerais
 - Você deve seguir a orientaçaõ da documentação do proprio Bling
 - A chave secreta "bling123" não foi modificada
+- Em OC 3x o pacote "complemento-bling.ocmod" instala e modifica automaticamente os arquivos necessários requeridos pelo Bling.
+Basta fazer o restante das configurações em sua conta do Bling, já que no Opencart deve estar tudo pronto.
 
 
 # Links uteis
-Integração Bling: https://manuais.bling.com.br/manual/?item=integracao-com-opencart-(web-service)
-Manual Desenvolvedor Bling: https://manuais.bling.com.br/manual/?item=opencart-para-desenvolvedores
+Integração Bling: https://ajuda.bling.com.br/hc/pt-br/articles/360046283914-Integra%C3%A7%C3%A3o-com-a-Opencart
 
