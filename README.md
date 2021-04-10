@@ -1,4 +1,4 @@
-# Complemento Bling
+# :brazil: Complemento Bling
 Foi criado essa modificação afim de facilitar a aqueles que usam o ERP Bling e não tem qualquer noção na hora de editar o código.
 Essa modificação apenas coloca a parte editavel do código via xml no local correto, assim você poupa tempo de programação.
 Basta executar o XMl pelo instalador de modificações do próprio Opencart em
