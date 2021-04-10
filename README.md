@@ -4,13 +4,12 @@ Essa modificação apenas coloca a parte editavel do código via xml no local co
 Basta executar o XMl pelo instalador de modificações do próprio Opencart em
 - Extensões > Instalador
 - Extensões > Modificaçoes > clique em atualizar (Botão no canto superior direito)
-- No Opencart 3xxx na home do painel clique na engrenagem no canto superior direito e selecione atualizar em "thema". 
-
+- No Opencart 3xxx na home do painel clique na engrenagem no canto superior direito e selecione atualizar em "thema".
 - Observe que a instrução modifica os dados dos arquivos conforme descrito na documentação do complemento Bling, caso sua loja tenha quaisquer outras modificações escrevendo novas regras no model, verifique isso antes de correr este.
 - Observe tambem, se caso ocorrer quaisquer erros, basta desabilitar esse xml e atualizar em "modifições" para o sistema montar os novos arquivos limpo.
 - Caso precise de suporte, você pode entrar em contato conosco. "suporte@agenciaprai.com" (pago)
 
-#Versão
+# Versão
 - [x] Essa modificação foi feita para Opencart 2.3x
 - [x] Atualização para Opencart 3x
 - [x] Pequenas correções
