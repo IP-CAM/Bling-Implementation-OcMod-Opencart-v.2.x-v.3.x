@@ -1,3 +1,32 @@
+# Complement Bling
+This modification was created in order to facilitate those who use ERP Bling and have no notion at the time of editing the code.
+This modification only places the editable part of the code via XML in the correct location, so you save programming time.
+Just run the XML by the modificator of OpenCart itself in
+- Extensions> Installer
+- Extensions> Modifications> Click Update (button in the upper right corner)
+- In OpenCart 3xxx on the Panel Home Click the gear in the upper right corner and select Update in "Thema".
+
+- Note that the statement modifies files data as described in the Bling Complement documentation if your store has any other modifications by typing new rules in the Model, check this before running this.
+- Note also, if any errors occur, simply disable this XML and upgrade in "modifies" for the system to mount the new files clean.
+- If you need support, you can contact us. "support@agenciaprai.com" (paid)
+
+#Version
+- [x] This modification was made for OpenCart 2.3x
+- [x] Update for OpenCart 3x
+- [x] Small fixes
+
+# General observations
+- You must follow the orientation of the documentation of the Bling itself
+- The secret key "Bling123" has not been modified
+- In 3X OC The "Complement-Bling.ocmod" package installs and automatically modifies the required files required by the Bling.
+Just do the rest of the settings in your Bling account, since in Opencart it should be ready.
+
+
+# Useful links
+Integration Bling: https://ajuda.bling.com.br/hc/en-br/articles/360046283914-integra%C3%A7%C3%A3o-com-a-Opencart
+
+-------
+
 # :brazil: Complemento Bling
 Foi criado essa modificação afim de facilitar a aqueles que usam o ERP Bling e não tem qualquer noção na hora de editar o código.
 Essa modificação apenas coloca a parte editavel do código via xml no local correto, assim você poupa tempo de programação.
